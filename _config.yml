@@ -1,0 +1,78 @@
+# Site settings
+title: crisryantan
+description: Official website of Cris Ryan Tan
+favicon: /assets/img/avatar.JPG
+baseurl:
+url: http://crisryantan.com
+rss_url: /pages/atom.xml
+
+# Build settings
+markdown: kramdown
+
+# Author settings
+author:
+  name: Cris Ryan Tan
+  title: Web Developer
+  address: Cebu, Philippines
+  email: crisryantan@gmail.com
+  link: http://crisryantan.com
+  weibo:
+  github: xxryan1234
+  linkedin: https://www.linkedin.com/pub/cris-ryan-tan/60/696/7b9
+  twitter: ry_15_yan
+  gavatar: /assets/img/avatar.JPG
+  workHistory:
+    - work1:
+      company: Tritontek
+      location: Cebu, Philippines
+      title: Web Developer
+      started: 2015
+      duration: (2015 - Present)
+      description: Developed a time management application on the frontside using frontend technlogies like Angularjs, GIT, Karma, Gulpjs.
+    - work2:
+      company: Global Zeal
+      location: Cebu, Philippines
+      title: Web Developer
+      started: 2014
+      duration: (2014 - 2015)
+      description:  Developed Pd360 and Observation 360 modules using NodeJs ( backend ) , MongodDB ( dbms ) , Mocha( TDD ) , GIT ( VCS ) and BackoneJS/MarionetteJS/JQuery/Bootstrap ( frontend ).
+    - work3:
+      company: Global Zeal
+      location: Cebu, Philippines
+      title: Web QA
+      started: 2013
+      duration: (2013 - 2014)
+      description: Web Application testing, Create Test Cases base from the Specifications or Acceptance Criteria. Developed automation testing scrips with Selenium, Javascript.
+  educationHistory:
+    - education1:
+      organization: University of Cebu
+      degree: Bachelor
+      major: Computer Engineering Engineering
+      started: 2008
+      duration: (2008 - 2013)
+  languages:
+    - language1:
+      name: Tagalog, Bisaya
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+  programmingSkills:
+    - skill1:
+      name: HTML/CSS
+      percentage: 70%
+    - skill2:
+      name: Testing
+      percentage: 85%
+    - skill3:
+      name: MVC Frameworks
+      percentage: 75%
+    - skill4:
+      name: Javascript
+      percentage: 70%
+    - skill5:
+      name: Task Runners
+      percentage: 85%
+    - skill6:
+      name: Database
+      percentage: 65%
